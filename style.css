@@ -1,0 +1,53 @@
+p{
+    color : #ff0000;
+    background-color : yellow;
+    text-align: center;
+    font-size: 25px;
+}
+.jk {
+    color : blue;
+    background-color: aqua;
+    height: 300px;
+    width: 300px;
+    padding: 5px;
+    border: 1px dashed pink;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+
+     
+}
+.box{
+
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgrey;
+    border: 1px dashed black;
+}
+#Box1{
+    
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    border: 1px doubled blueviolet
+}
+#Box2{
+    border: 2px solid orange;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgreen;
+   
+}
+#Box3{
+    border: 2px double dashed purple;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightpink;
+}
+#Box4{
+    border: 2px solid brown;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightyellow;
+}
