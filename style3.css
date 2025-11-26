@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    height: 500px;
+    width: 800px;
+    background-color: lightseagreen;
+    border: 1px solid blue;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: space-around;
+    gap: 20px,40px;
+}
+.item{
+    background-color: coral;
+    border: 2px solid darkred;
+    margin: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    flex-shrink: 1;
+}
+.item3{
+    order: -1;
+    flex-grow: 4;
+}
